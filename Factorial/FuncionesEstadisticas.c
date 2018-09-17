@@ -5,3 +5,7 @@ int factorial(int n) {
 	}
 	return result;
 }
+
+int combinacion(int n, int p) {
+	return factorial(n) / (factorial(p) * factorial( n - p));
+}
