@@ -4,7 +4,6 @@
 #include "FuncionesEstadisticas.h"
 
 int main(int argc, char const *argv[]) {
-	
 	printf("Factoriales: \n");
 	int fact;
 	while(1) {
