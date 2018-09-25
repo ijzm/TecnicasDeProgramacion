@@ -1,7 +1,7 @@
-PROJECT=$(shell basename $(CURDIR))
+PROJECT=TEST
 
 main : main.o
-		gcc -o $(PROJECT) main.o
+		gcc -o test.exe main.o
 
 
 main.o : main.c

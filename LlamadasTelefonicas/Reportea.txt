@@ -3,7 +3,7 @@ Registro de llamadas de la corporación por empresa
 Código de la empresa: 467932 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 15200904     163.0      40      855.59 
 95021586     188.5      72      989.78 
@@ -20,7 +20,7 @@ Gasto total: 6841.56
 Código de la empresa: 1264 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 97112022     120.7      88      633.73 
 81429327      68.4     204      735.19 
@@ -50,7 +50,7 @@ Gasto total: 13066.27
 Código de la empresa: 83969 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 80486594     118.3     214     1271.83 
 39495587      75.8      93      398.21 
@@ -74,7 +74,7 @@ Gasto total: 8794.63
 Código de la empresa: 48440 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 89776459      36.6      50      191.99 
 29985534     134.4     193     1445.12 
@@ -104,7 +104,7 @@ Gasto total: 15069.19
 Código de la empresa: 35839 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 91409719     157.6     155     1694.20 
 39495587     157.2      56      825.25 
@@ -127,7 +127,7 @@ Gasto total: 13644.28
 Código de la empresa: 98660 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 90809264     130.4      30      684.81 
 26236675     192.7     195     2071.74 
@@ -151,7 +151,7 @@ Gasto total: 9483.48
 Código de la empresa: 55525 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 51857905      61.0      72      320.36 
 12815381     150.1     125     1613.68 
@@ -172,7 +172,7 @@ Gasto total: 8916.40
 Código de la empresa: 85721 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 34638139     175.6      39      922.06 
 14556987     115.9      29      608.37 
@@ -187,7 +187,7 @@ Gasto total: 2903.67
 Código de la empresa: 89386 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 84767412     144.2     227     1550.26 
 57250229     179.3     199     1927.69 
@@ -210,7 +210,7 @@ Gasto total: 8174.19
 Código de la empresa: 67424 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 45315884     137.1      66      719.78 
 96161334     192.5      71     1010.68 
@@ -237,7 +237,7 @@ Gasto total: 12096.44
 Código de la empresa: 64853 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 43474252     109.1       8      572.67 
 22310442      48.1      29      252.32 
@@ -264,7 +264,7 @@ Gasto total: 8940.39
 Código de la empresa: 31338 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 22046669      67.1      74      352.22 
 13609576      59.2      93      310.96 
@@ -287,7 +287,7 @@ Gasto total: 9618.76
 Código de la empresa: 32835 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 76861827     103.8      66      544.69 
 90809264      51.4      88      269.69 
@@ -308,7 +308,7 @@ Gasto total: 6979.36
 Código de la empresa: 81320 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 36856703      20.2      18      105.94 
 12815381     124.1      92      651.58 
@@ -323,7 +323,7 @@ Gasto total: 2503.83
 Código de la empresa: 53262 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 29532114      46.3      34      242.97 
 80378364     188.4      63      989.21 
@@ -342,7 +342,7 @@ Gasto total: 6671.74
 Código de la empresa: 31777 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 47942066     180.5      74      947.47 
 68949636      90.0      70      472.55 
@@ -367,7 +367,7 @@ Gasto total: 13146.10
 Código de la empresa: 85513 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 80635261     117.8      91      618.29 
 83147875      52.8     239      567.06 
@@ -384,7 +384,7 @@ Gasto total: 4566.67
 Código de la empresa: 69218 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 97962834     185.4     291     1992.73 
 14728166      50.9      35      267.12 
@@ -405,7 +405,7 @@ Gasto total: 8653.74
 Código de la empresa: 42030 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 76250010     161.3      77      846.93 
 61714877     176.6      49      926.99 
@@ -420,7 +420,7 @@ TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO
 24625605      41.0       7      215.20 
 64441753      96.1     135     1033.51 
 19590792      28.7     261      308.95 
-50962607     138.3      16      725.81 
+50962607     138.2      16      725.81 
 55952412      19.7     240      211.99 
 63744414      51.7      50      271.64 
 80751104      34.0     275      365.18 
@@ -433,7 +433,7 @@ Gasto total: 11958.74
 Código de la empresa: 72164 
 --------------------------------------------------------------------------------
 LLAMADAS REALIZADAS: 
-TELÉFONO    TIEMPO DE LLAMADA (seg)    PAÍS    COSTO 
+TELÉFONO TIEMPO DE LLAMADA (seg) PAÍS COSTO 
 --------------------------------------------------------------------------------
 62366213       8.5     155       91.70 
 84767412      74.7      49      392.38 

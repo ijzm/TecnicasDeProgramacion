@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h>
 
 #define LINEWIDTH 80
@@ -53,8 +53,8 @@ int main(int argc, char const *argv[]) {
 
 			fprintf(ArchivoReporte, "%7.2f \n", Costo);
 			c = fgetc(ArchivoDatos);
-			if(c == 13) {
-				fgetc(ArchivoDatos);
+			if(c == '\n') {
+				//fgetc(ArchivoDatos);
 				break;
 			}
 		}
