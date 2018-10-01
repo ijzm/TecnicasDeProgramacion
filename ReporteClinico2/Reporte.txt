@@ -1,0 +1,28 @@
+DISTRITO ELEGIDO: 11 
+============================================================
+   1) Especialidad: 424679 
+Medico que mas gano:   41427373        Monto Ganado:     882.36 
+Medico que menos gano: 41427373        Monto Ganado:     882.36 
+   2) Especialidad: 811876 
+   3) Especialidad: 145807 
+Medico que mas gano:   78392844        Monto Ganado:     414.60 
+Medico que menos gano: 29543877        Monto Ganado:     207.41 
+   4) Especialidad: 241307 
+   5) Especialidad: 777427 
+Medico que mas gano:   93619155        Monto Ganado:     326.14 
+Medico que menos gano: 93619155        Monto Ganado:     326.14 
+   6) Especialidad: 878172 
+Medico que mas gano:   98070924        Monto Ganado:     438.75 
+Medico que menos gano: 54412597        Monto Ganado:     206.46 
+   7) Especialidad: 545995 
+   8) Especialidad: 606616 
+Medico que mas gano:   63888343        Monto Ganado:     766.38 
+Medico que menos gano: 63888343        Monto Ganado:     766.38 
+   9) Especialidad: 539931 
+  10) Especialidad: 905211 
+Medico que mas gano:   59985330        Monto Ganado:     840.56 
+Medico que menos gano: 25704775        Monto Ganado:     248.30 
+  11) Especialidad: 398626 
+Medico que mas gano:   81711999        Monto Ganado:     743.22 
+Medico que menos gano: 81711999        Monto Ganado:     743.22 
+  12) Especialidad: 284962 

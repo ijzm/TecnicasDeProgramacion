@@ -1,0 +1,26 @@
+
+20160493
+medicos.txt:
+DniDoctor, Especialidad, PRECIO
+
+Especialidades.txt
+CodigoEspecialidad
+
+Pacientes.txt
+DNIPaciente, Distrito, Telefono
+
+Consultas.txt
+DNIPaciente, DNIDoctor
+
+DISTRITO ELEGIDO: 11 (*)
+===========================================================================================================
+1)	Especialidad: 730093
+Médico que más gano:    33556677                                   Monto ganado: S/. 5567.85
+Médico que menos ganó:  91827354                                   Monto ganado: S/.  672.45
+-----------------------------------------------------------------------------------------------------------
+2)	Especialidad: Pediatría
+Médico que más gano:    …                                          Monto ganado: S/.  …
+Médico que menos ganó:  …                                          Monto ganado: S/.  …
+-----------------------------------------------------------------------------------------------------------
+3)	...
+(*) El distrito se lee como dato
