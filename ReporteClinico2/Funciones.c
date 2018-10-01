@@ -1,6 +1,6 @@
 #include "Funciones.h"
 
-#define MAXWIDTH 60
+#define MAXWIDTH 64
 
 
 void imprimirReporte(FILE *Consultas, FILE *Especialidades, FILE *Medicos, FILE *Pacientes, FILE *Reporte) {
@@ -20,6 +20,7 @@ void imprimirReporte(FILE *Consultas, FILE *Especialidades, FILE *Medicos, FILE 
 		printf("Especialidad: %d \n", especialidad);
 		fprintf(Reporte, "%4d) Especialidad: %d \n", num, especialidad);
 		buscarDoctores(distritoElegido, especialidad, Consultas, Pacientes, Medicos, Reporte);
+		imprimirLinea(Reporte, '-', MAXWIDTH);
 		num++;
 		printf("\n");
 	}
