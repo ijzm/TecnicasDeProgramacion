@@ -7,5 +7,7 @@ void Swap(int *, int, int);
 void SwapF(float *, int, int);
 void ImprimirArreglo(int *, int);
 
+void ImprimirReporte(int *dni, int *telefono, float *sueldo, int numDatos);
+
 
 #endif

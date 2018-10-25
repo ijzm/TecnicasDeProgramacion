@@ -4,7 +4,7 @@ CFLAGS= -g -Wall
 
 .PHONY: default all clean
 
-default: $(TARGET)
+default: $(TARGET) run
 all: default
 
 OBJECTS = $(patsubst %.c, %.o, $(wildcard *.c))

@@ -11,10 +11,13 @@ int main(int argc, char const *argv[]) {
 
 	numDatos = LeerDatos(dni, telefono, sueldo);
 
-	ImprimirArreglo(dni, numDatos);
+	//ImprimirArreglo(dni, numDatos);
 	Ordenar(dni, telefono, sueldo, numDatos);
 	printf("\n");
-	ImprimirArreglo(dni, numDatos);
+	//ImprimirArreglo(dni, numDatos);
+
+	ImprimirReporte(dni, telefono, sueldo, numDatos);
+
 
 	/*
 	//Crear datos aleatorios para el archivo Datos.txt

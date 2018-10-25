@@ -21,6 +21,8 @@ int LeerDatos(int *dni, int *telefono, float *sueldo) {
 		sueldo[numDatos] = s;
 		numDatos++;
 	}
+
+	fclose(Dato);
 	return numDatos;
 }
 
@@ -31,7 +33,7 @@ void Ordenar(int *dni, int *telefono, float *sueldo, int max) {
 			if(sueldo[i] > sueldo[j]) {
 				Swap(dni,      i, j);
 				Swap(telefono, i, j);
-				SwapF(sueldo,   i, j);
+				SwapF(sueldo,  i, j);
 			}
 		}
 	}
@@ -55,4 +57,16 @@ void ImprimirArreglo(int *arr, int max) {
 	}
 
 	printf("\n");
+}
+
+void ImprimirReporte(int *dni, int *telefono, float *sueldo, int numDatos) {
+	FILE *Reporte = fopen("Reporte.txt", "w");
+
+	fprintf(Reporte, "DNI      TELEFONO  SUELDO \n");
+
+	for (int i = 0; i < numDatos; ++i) {
+		fprintf(Reporte, "%08d %08d %6.2f \n", dni[i], telefono[i], sueldo[i]);
+	}
+
+	fclose(Reporte);
 }
