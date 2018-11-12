@@ -31,7 +31,7 @@ FILE *leerArchivo(const char *Path, const char *Arg) {
 char *leerCadenaExacta(FILE *Arch) {
 	char buffer[500], *cadena;
 	int longitud;
-	cadena = leerCadena(buffer, 500, Arch);
+	leerCadena(buffer, 500, Arch);
 	if(feof(Arch)) {
 		return NULL;
 	}
