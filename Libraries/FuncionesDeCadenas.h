@@ -4,6 +4,6 @@
 char *leerCadena(char *, int, FILE *);
 char *leerCadenaExacta(FILE *);
 FILE *leerArchivo(const char *, const char *);
-
+int sacaPalabras(char *, char **);
 
 #endif

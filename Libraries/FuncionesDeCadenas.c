@@ -41,3 +41,31 @@ char *leerCadenaExacta(FILE *Arch) {
 	strcpy(cadena, buffer);
 	return cadena;
 }
+
+int sacaPalabras(char *frase, char **palabra) {
+	char buffer[100], *tmp;
+	int longitud, num = 0, i = 0, c;
+
+	while(1) {
+		while(frase[i] == ' ') {
+			i++;
+		}
+		if(frase[i] == '\0') {
+			break;
+		}
+		c = 0;
+		while(frase[i] != ' ' && frase[i] != '\0') {
+			buffer[c] = frase[i];
+			c++;
+			i++;
+		}
+		buffer[c] = '\0';
+		longitud = strlen(buffer);
+		tmp = (char*)malloc(sizeof(char)* (longitud + 1));
+		strcpy(tmp, buffer);
+		palabra[num] = tmp;
+		num++;
+	}
+
+	return num;
+}
