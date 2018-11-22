@@ -1,5 +1,5 @@
 #ifndef ESTRUCTURAS_H
-#define ESTRUCTURAS_H value
+#define ESTRUCTURAS_H
 
 
 #endif
