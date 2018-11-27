@@ -29,7 +29,7 @@ int leerClientes(Cliente *clientes) {
         clientes[num].Codigo = atoi(linea[0]);
         clientes[num].Nombre = linea[1];
         
-        int tmp = atof(linea[2]);
+        double tmp = atof(linea[2]);
         if(tmp >= 0) {
              clientes[num].Saldo = tmp;
              clientes[num].Estado = "";
@@ -54,7 +54,7 @@ void imprimirClientes(Cliente *clientes, int max) {
 }
 
 void leerMovimientos(Cliente *clientes, int max) {
-    FILE *ArchMovimientos = abrirArchivo("MovimientosDeCuenta.csv", "r");
+    FILE *ArchMovimientos = abrirArchivo("MovimientosDecuenta.csv", "r");
     char buffer[300];
     char *linea[30];
     int numLineas;
@@ -71,7 +71,7 @@ void leerMovimientos(Cliente *clientes, int max) {
                 int j;
                 for(j = 1; j < numLineas; j += 2) {
                     
-                    int valor = atoi(linea[j + 1]);
+                    double valor = atof(linea[j + 1]);
                     
                     //RETIRO
                     if(strcmp(linea[j], "R") == 0) {
@@ -102,8 +102,8 @@ void leerMovimientos(Cliente *clientes, int max) {
                         }
                     }
                 }
-                free(linea[j]);
-                free(linea[j+1]);
+                //free(linea[j]);
+                //free(linea[j+1]);
             }
         }
     }
@@ -168,6 +168,7 @@ FILE *abrirArchivo(char *path, char *args) {
         printf("ERROR al abrir %s\n", path);
         exit(1);
     }
+    return Arch;
 }
 
 void leerCadena(char *cadena, int max, FILE *Arch) {
@@ -180,6 +181,7 @@ void leerCadena(char *cadena, int max, FILE *Arch) {
 }
 
 void reescribirClientes(Cliente *clientes, int max) {
+    printf("%lf\n",clientes[3].Saldo );
     FILE *Arch = abrirArchivo("ClientesNuevo.csv", "w");
     char *nuevoNombre[4];
     int i;
@@ -190,9 +192,9 @@ void reescribirClientes(Cliente *clientes, int max) {
         fprintf(Arch, "%s/", nuevoNombre[2]);
         fprintf(Arch, "%s,", nuevoNombre[0]);
         if(clientes[i].Saldo > 0) {
-            fprintf(Arch, "%.2f\n", clientes[i].Saldo);
+            fprintf(Arch, "%.2lf\n", clientes[i].Saldo);
         } else {
-            fprintf(Arch, "-%.2f\n", clientes[i].Sobregiro);
+            fprintf(Arch, "-%.2lf\n", clientes[i].Sobregiro);
         }        
                 
     }

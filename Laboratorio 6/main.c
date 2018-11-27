@@ -22,10 +22,12 @@ int main(int argc, char** argv) {
     
     reescribirClientes(clientes, numClientes);
     
+    //printf("%.2lf", clientes[3].Saldo);
     printf("\n\n");
     
     leerMovimientos(clientes, numClientes);
     imprimirSaldos(clientes, numClientes);
+
     
 
     return (EXIT_SUCCESS);
